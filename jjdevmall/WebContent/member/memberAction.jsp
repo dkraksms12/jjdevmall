@@ -23,7 +23,7 @@
 	System.out.println(memberGender+"<--memberGender");
 	System.out.println(memberAge+"<--memberAge");
 	System.out.println(memberAddr+"<--memberAddr");
-	
+	//단위테스크코드 전부 추가하느냐ㅑㅑ 습관으로 들이자
 	String driver = "com.mysql.jdbc.Driver";
 	String url = "jdbc:mysql://localhost:3306/jjdevmall?"+"useUnicode=true&characterEncoding=euckr";
 	String dbUser = "root";
